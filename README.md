@@ -1,4 +1,5 @@
-## Hi, Im Nozim 👋
+## Hi, Im Nozim👋 
+## Junior Backend-Developer C#.
 
 
 # 💻 Tech Stack:
